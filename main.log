@@ -1,0 +1,947 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.15)  25 AUG 2021 12:58
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/main.tex
+(/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/main.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+
+LaTeX Warning: File `example.eps' already exists on the system.
+               Not generating it from this source.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/svjour3.cls
+Document Class: svjour3 2007/05/08 v3.2 
+LaTeX document class for Springer journals
+Class Springer-SVJour3 Info: extra/valid Springer sub-package (-> *.clo) 
+(Springer-SVJour3)           not found in option list of \documentclass
+(Springer-SVJour3)           - autoactivating "global" style.
+(/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/svglov3.clo
+File: svglov3.clo 2009/12/18 v3.2 style option for standardised journals
+
+SVJour Class option: svglov3.clo for standardised journals
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
+\logodepth=\dimen134
+\headerboxheight=\dimen135
+\betweenumberspace=\dimen136
+\aftertext=\dimen137
+\headlineindent=\dimen138
+\c@inst=\count167
+\c@auth=\count168
+\instindent=\dimen139
+\authrun=\box45
+\authorrunning=\toks14
+\titrun=\box46
+\titlerunning=\toks15
+\combirun=\box47
+\c@lastpage=\count169
+\rubricwidth=\dimen140
+\c@section=\count170
+\c@subsection=\count171
+\c@subsubsection=\count172
+\c@paragraph=\count173
+\c@subparagraph=\count174
+\spthmsep=\dimen141
+\c@theorem=\count175
+\c@case=\count176
+\c@conjecture=\count177
+\c@corollary=\count178
+\c@definition=\count179
+\c@example=\count180
+\c@exercise=\count181
+\c@lemma=\count182
+\c@note=\count183
+\c@problem=\count184
+\c@property=\count185
+\c@proposition=\count186
+\c@question=\count187
+\c@solution=\count188
+\c@remark=\count189
+\c@figure=\count190
+\c@table=\count191
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\figcapgap=\dimen142
+\tabcapgap=\dimen143
+\figgap=\dimen144
+\bibindent=\dimen145
+\@tempcntc=\count192
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+) (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen148
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen149
+\subfiglabelskip=\skip52
+\c@subfigure=\count193
+\c@lofdepth=\count194
+\c@subtable=\count195
+\c@lotdepth=\count196
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+) (/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/01/13 v2.02e (include SVG pictures)
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2020/01/24 v3.29 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+) (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\svg@box=\box48
+\c@svg@param@lastpage=\count197
+\c@svg@param@currpage=\count198
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen150
+\captionmargin@=\dimen151
+\captionwidth=\dimen152
+\caption@tempdima=\dimen153
+\caption@indent=\dimen154
+\caption@parindent=\dimen155
+\caption@hangindent=\dimen156
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\captionstyle \ifx \@captype \fig@type \vskip \figcapgap \fi \setbox \@tempboxa \hbox {{\floatlegendstyle #1\floatcounterend }\capstrut #2}\ifdim \wd \@tempboxa >\hsize {\floatlegendstyle #1\floatcounterend }\capstrut #2\par \else \hbox to\hsize {\leftlegendglue \unhbox \@tempboxa \hfil }\fi \ifx \@captype \fig@type \else \vskip \tabcapgap \fi  on input line 1082.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count199
+\c@continuedfloat=\count266
+Package caption Info: subfigure package is loaded.
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
+\Gm@bindingoffset=\dimen157
+\Gm@wd@mp=\dimen158
+\Gm@odd@mp=\dimen159
+\Gm@even@mp=\dimen160
+\Gm@layoutwidth=\dimen161
+\Gm@layoutheight=\dimen162
+\Gm@layouthoffset=\dimen163
+\Gm@layoutvoffset=\dimen164
+\Gm@dimlist=\toks17
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen165
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen166
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count270
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count271
+\leftroot@=\count272
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count273
+\DOTSCASE@=\count274
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen167
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count275
+\c@MaxMatrixCols=\count276
+\dotsspace@=\muskip16
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
+\tag@help=\toks19
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
+\andhelp@=\toks20
+\eqnshift@=\dimen168
+\alignsep@=\dimen169
+\tagshift@=\dimen170
+\tagwidth@=\dimen171
+\totwidth@=\dimen172
+\lineht@=\dimen173
+\@envbody=\toks21
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count282
+\lst@gtempboxa=\box51
+\lst@token=\toks23
+\lst@length=\count283
+\lst@currlwidth=\dimen174
+\lst@column=\count284
+\lst@pos=\count285
+\lst@lostspace=\dimen175
+\lst@width=\dimen176
+\lst@newlines=\count286
+\lst@lineno=\count287
+\lst@maxwidth=\dimen177
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count288
+\lst@skipnumbers=\count289
+\lst@framebox=\box52
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ (/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count290
+\l__pdf_internal_box=\box53
+))
+Package: xparse 2020-02-14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count291
+\g__xparse_grabber_int=\count292
+\l__xparse_m_args_int=\count293
+\l__xparse_v_nesting_int=\count294
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count295
+) (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2019/11/29 v2.28 Module abspage for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2019/11/29 v2.28 Module base for zref (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+Package zref Info: New property list: main on input line 763.
+Package zref Info: New property: default on input line 764.
+Package zref Info: New property: page on input line 765.
+) (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\c@abspage=\count296
+Package zref Info: New property: abspage on input line 66.
+) (/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\mdf@templength=\skip58
+\c@mdf@globalstyle@cnt=\count297
+\mdf@skipabove@length=\skip59
+\mdf@skipbelow@length=\skip60
+\mdf@leftmargin@length=\skip61
+\mdf@rightmargin@length=\skip62
+\mdf@innerleftmargin@length=\skip63
+\mdf@innerrightmargin@length=\skip64
+\mdf@innertopmargin@length=\skip65
+\mdf@innerbottommargin@length=\skip66
+\mdf@splittopskip@length=\skip67
+\mdf@splitbottomskip@length=\skip68
+\mdf@outermargin@length=\skip69
+\mdf@innermargin@length=\skip70
+\mdf@linewidth@length=\skip71
+\mdf@innerlinewidth@length=\skip72
+\mdf@middlelinewidth@length=\skip73
+\mdf@outerlinewidth@length=\skip74
+\mdf@roundcorner@length=\skip75
+\mdf@footenotedistance@length=\skip76
+\mdf@userdefinedwidth@length=\skip77
+\mdf@needspace@length=\skip78
+\mdf@frametitleaboveskip@length=\skip79
+\mdf@frametitlebelowskip@length=\skip80
+\mdf@frametitlerulewidth@length=\skip81
+\mdf@frametitleleftmargin@length=\skip82
+\mdf@frametitlerightmargin@length=\skip83
+\mdf@shadowsize@length=\skip84
+\mdf@extratopheight@length=\skip85
+\mdf@subtitleabovelinewidth@length=\skip86
+\mdf@subtitlebelowlinewidth@length=\skip87
+\mdf@subtitleaboveskip@length=\skip88
+\mdf@subtitlebelowskip@length=\skip89
+\mdf@subtitleinneraboveskip@length=\skip90
+\mdf@subtitleinnerbelowskip@length=\skip91
+\mdf@subsubtitleabovelinewidth@length=\skip92
+\mdf@subsubtitlebelowlinewidth@length=\skip93
+\mdf@subsubtitleaboveskip@length=\skip94
+\mdf@subsubtitlebelowskip@length=\skip95
+\mdf@subsubtitleinneraboveskip@length=\skip96
+\mdf@subsubtitleinnerbelowskip@length=\skip97
+ (/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box54
+\mdf@footnotebox=\box55
+\mdf@splitbox@one=\box56
+\mdf@splitbox@two=\box57
+\mdf@splitbox@save=\box58
+\mdfsplitboxwidth=\skip98
+\mdfsplitboxtotalwidth=\skip99
+\mdfsplitboxheight=\skip100
+\mdfsplitboxdepth=\skip101
+\mdfsplitboxtotalheight=\skip102
+\mdfframetitleboxwidth=\skip103
+\mdfframetitleboxtotalwidth=\skip104
+\mdfframetitleboxheight=\skip105
+\mdfframetitleboxdepth=\skip106
+\mdfframetitleboxtotalheight=\skip107
+\mdffootnoteboxwidth=\skip108
+\mdffootnoteboxtotalwidth=\skip109
+\mdffootnoteboxheight=\skip110
+\mdffootnoteboxdepth=\skip111
+\mdffootnoteboxtotalheight=\skip112
+\mdftotallinewidth=\skip113
+\mdfboundingboxwidth=\skip114
+\mdfboundingboxtotalwidth=\skip115
+\mdfboundingboxheight=\skip116
+\mdfboundingboxdepth=\skip117
+\mdfboundingboxtotalheight=\skip118
+\mdf@freevspace@length=\skip119
+\mdf@horizontalwidthofbox@length=\skip120
+\mdf@verticalmarginwhole@length=\skip121
+\mdf@horizontalspaceofbox=\skip122
+\mdfsubtitleheight=\skip123
+\mdfsubsubtitleheight=\skip124
+\c@mdfcountframes=\count298
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count299
+\c@mdf@env@i=\count300
+\c@mdf@env@ii=\count301
+\c@mdf@zref@counter=\count302
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip125
+\enit@outerparindent=\dimen178
+\enit@toks=\toks24
+\enit@inbox=\box59
+\enit@count@id=\count303
+\enitdp@description=\count304
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/main.aux
+
+LaTeX Warning: Label `table:results' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count305
+\scratchdimen=\dimen179
+\scratchbox=\box60
+\nofMPsegments=\count306
+\nofMParguments=\count307
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count308
+\MPscratchDim=\dimen180
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.70166pt, 418.25368pt, 107.55254pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=-0.56833pt
+* \evensidemargin=35.28255pt
+* \topmargin=1.62154pt
+* \headheight=12.0pt
+* \headsep=15.51512pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=48.0pt
+* \marginparsep=10.0pt
+* \columnsep=19.26015pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count311
+\AtBeginShipoutBox=\box61
+LaTeX Font Info:    Trying to load font information for U+msa on input line 118.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 118.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Package epstopdf Info: Source file: <figures/leppex1.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 89129 bytes
+(epstopdf)             Output file: <figures/leppex1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:11
+(epstopdf)                    size: 71436 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/leppex1-eps-converted-to.pdf figures/leppex1.eps>
+(epstopdf)             \includegraphics on input line 202.
+Package epstopdf Info: Output file is already uptodate.
+<figures/leppex1-eps-converted-to.pdf, id=16, 328.22626pt x 328.22626pt>
+File: figures/leppex1-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/leppex1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/leppex1-eps-converted-to.pdf  used on input line 202.
+(pdftex.def)             Requested size: 125.47737pt x 125.47852pt.
+Package epstopdf Info: Source file: <figures/leppex2.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 146308 bytes
+(epstopdf)             Output file: <figures/leppex2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:11
+(epstopdf)                    size: 98861 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/leppex2-eps-converted-to.pdf figures/leppex2.eps>
+(epstopdf)             \includegraphics on input line 203.
+Package epstopdf Info: Output file is already uptodate.
+<figures/leppex2-eps-converted-to.pdf, id=17, 328.22626pt x 328.22626pt>
+File: figures/leppex2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/leppex2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/leppex2-eps-converted-to.pdf  used on input line 203.
+(pdftex.def)             Requested size: 125.47737pt x 125.47852pt.
+
+Underfull \hbox (badness 4353) in paragraph at lines 203--203
+[]\OT1/cmr/m/n/8 (b) Mul-ti-ple Lepp with same
+ []
+
+Package epstopdf Info: Source file: <figures/leppex3.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 114547 bytes
+(epstopdf)             Output file: <figures/leppex3-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:11
+(epstopdf)                    size: 105475 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/leppex3-eps-converted-to.pdf figures/leppex3.eps>
+(epstopdf)             \includegraphics on input line 204.
+Package epstopdf Info: Output file is already uptodate.
+<figures/leppex3-eps-converted-to.pdf, id=18, 328.22626pt x 328.22626pt>
+File: figures/leppex3-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/leppex3-eps-converted-to.pdf>
+Package pdftex.def Info: figures/leppex3-eps-converted-to.pdf  used on input line 204.
+(pdftex.def)             Requested size: 125.47737pt x 125.47852pt.
+[3 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/delaunaypoints.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 7982 bytes
+(epstopdf)             Output file: <figures/delaunaypoints-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:12
+(epstopdf)                    size: 4111 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/delaunaypoints-eps-converted-to.pdf figures/delaunaypoints.eps>
+(epstopdf)             \includegraphics on input line 250.
+Package epstopdf Info: Output file is already uptodate.
+<figures/delaunaypoints-eps-converted-to.pdf, id=44, 328.22626pt x 328.22626pt>
+File: figures/delaunaypoints-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/delaunaypoints-eps-converted-to.pdf>
+Package pdftex.def Info: figures/delaunaypoints-eps-converted-to.pdf  used on input line 250.
+(pdftex.def)             Requested size: 125.47737pt x 125.47852pt.
+Package epstopdf Info: Source file: <figures/delaunaylabel.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 11918 bytes
+(epstopdf)             Output file: <figures/delaunaylabel-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:12
+(epstopdf)                    size: 4764 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/delaunaylabel-eps-converted-to.pdf figures/delaunaylabel.eps>
+(epstopdf)             \includegraphics on input line 251.
+Package epstopdf Info: Output file is already uptodate.
+<figures/delaunaylabel-eps-converted-to.pdf, id=45, 328.22626pt x 328.22626pt>
+File: figures/delaunaylabel-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/delaunaylabel-eps-converted-to.pdf>
+Package pdftex.def Info: figures/delaunaylabel-eps-converted-to.pdf  used on input line 251.
+(pdftex.def)             Requested size: 125.47737pt x 125.47852pt.
+Package epstopdf Info: Source file: <figures/delaunaylabelcolors.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 183020 bytes
+(epstopdf)             Output file: <figures/delaunaylabelcolors-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:12
+(epstopdf)                    size: 158193 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/delaunaylabelcolors-eps-converted-to.pdf figures/delaunaylabelcolors.eps>
+(epstopdf)             \includegraphics on input line 252.
+Package epstopdf Info: Output file is already uptodate.
+<figures/delaunaylabelcolors-eps-converted-to.pdf, id=46, 328.22626pt x 328.22626pt>
+File: figures/delaunaylabelcolors-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/delaunaylabelcolors-eps-converted-to.pdf>
+Package pdftex.def Info: figures/delaunaylabelcolors-eps-converted-to.pdf  used on input line 252.
+(pdftex.def)             Requested size: 125.47737pt x 125.47852pt.
+
+Overfull \hbox (0.41382pt too wide) in paragraph at lines 279--280
+[]\OT1/cmr/m/n/10 In or-der to build a con-form-ing poly-gon tes-sel-la-tion from the par-ti-tion gen-er-ated from terminal-
+ []
+
+[4 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/simplebe.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 4009 bytes
+(epstopdf)             Output file: <figures/simplebe-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:13
+(epstopdf)                    size: 3016 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/simplebe-eps-converted-to.pdf figures/simplebe.eps>
+(epstopdf)             \includegraphics on input line 307.
+Package epstopdf Info: Output file is already uptodate.
+<figures/simplebe-eps-converted-to.pdf, id=58, 132.495pt x 164.615pt>
+File: figures/simplebe-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/simplebe-eps-converted-to.pdf>
+Package pdftex.def Info: figures/simplebe-eps-converted-to.pdf  used on input line 307.
+(pdftex.def)             Requested size: 62.73549pt x 77.94426pt.
+Package epstopdf Info: Source file: <figures/nosimplebe.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 6379 bytes
+(epstopdf)             Output file: <figures/nosimplebe-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:13
+(epstopdf)                    size: 3636 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/nosimplebe-eps-converted-to.pdf figures/nosimplebe.eps>
+(epstopdf)             \includegraphics on input line 308.
+Package epstopdf Info: Output file is already uptodate.
+<figures/nosimplebe-eps-converted-to.pdf, id=59, 186.6975pt x 208.78pt>
+File: figures/nosimplebe-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/nosimplebe-eps-converted-to.pdf>
+Package pdftex.def Info: figures/nosimplebe-eps-converted-to.pdf  used on input line 308.
+(pdftex.def)             Requested size: 62.73549pt x 70.15596pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
+[]\OT1/cmr/m/n/8 (b) Four barrier-edges
+ []
+
+Package epstopdf Info: Source file: <figures/demostracionlemma2.1.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 47100 bytes
+(epstopdf)             Output file: <figures/demostracionlemma2.1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:13
+(epstopdf)                    size: 6086 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/demostracionlemma2.1-eps-converted-to.pdf figures/demostracionlemma2.1.eps>
+(epstopdf)             \includegraphics on input line 335.
+Package epstopdf Info: Output file is already uptodate.
+<figures/demostracionlemma2.1-eps-converted-to.pdf, id=60, 179.67125pt x 163.61125pt>
+File: figures/demostracionlemma2.1-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/demostracionlemma2.1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/demostracionlemma2.1-eps-converted-to.pdf  used on input line 335.
+(pdftex.def)             Requested size: 104.56342pt x 95.21913pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe-eps-converted-to.pdf>] [6 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1-eps-converted-to.pdf>]
+<figures/data_struc_withpoints.png, id=82, 406.51875pt x 409.53pt>
+File: figures/data_struc_withpoints.png Graphic file (type png)
+<use figures/data_struc_withpoints.png>
+Package pdftex.def Info: figures/data_struc_withpoints.png  used on input line 379.
+(pdftex.def)             Requested size: 125.47737pt x 126.40308pt.
+<figures/triangulo.png, id=83, 678.535pt x 578.16pt>
+File: figures/triangulo.png Graphic file (type png)
+<use figures/triangulo.png>
+Package pdftex.def Info: figures/triangulo.png  used on input line 380.
+(pdftex.def)             Requested size: 125.47737pt x 106.9138pt.
+Package epstopdf Info: Source file: <figures/polyarray.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 24855 bytes
+(epstopdf)             Output file: <figures/polyarray-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:13
+(epstopdf)                    size: 6261 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/polyarray-eps-converted-to.pdf figures/polyarray.eps>
+(epstopdf)             \includegraphics on input line 392.
+Package epstopdf Info: Output file is already uptodate.
+<figures/polyarray-eps-converted-to.pdf, id=84, 241.90375pt x 159.59625pt>
+File: figures/polyarray-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/polyarray-eps-converted-to.pdf>
+Package pdftex.def Info: figures/polyarray-eps-converted-to.pdf  used on input line 392.
+(pdftex.def)             Requested size: 167.2989pt x 110.37965pt.
+ [7 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/data_struc_withpoints.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/triangulo.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray-eps-converted-to.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 408.
+
+Package epstopdf Info: Source file: <figures/meshdatastruct.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 59038 bytes
+(epstopdf)             Output file: <figures/meshdatastruct-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:14
+(epstopdf)                    size: 9646 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/meshdatastruct-eps-converted-to.pdf figures/meshdatastruct.eps>
+(epstopdf)             \includegraphics on input line 410.
+Package epstopdf Info: Output file is already uptodate.
+<figures/meshdatastruct-eps-converted-to.pdf, id=94, 370.38374pt x 150.5625pt>
+File: figures/meshdatastruct-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/meshdatastruct-eps-converted-to.pdf>
+Package pdftex.def Info: figures/meshdatastruct-eps-converted-to.pdf  used on input line 410.
+(pdftex.def)             Requested size: 292.77629pt x 119.01657pt.
+Package epstopdf Info: Source file: <figures/delunolabel.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 11194 bytes
+(epstopdf)             Output file: <figures/delunolabel-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:14
+(epstopdf)                    size: 4692 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/delunolabel-eps-converted-to.pdf figures/delunolabel.eps>
+(epstopdf)             \includegraphics on input line 432.
+Package epstopdf Info: Output file is already uptodate.
+<figures/delunolabel-eps-converted-to.pdf, id=95, 328.22626pt x 328.22626pt>
+File: figures/delunolabel-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/delunolabel-eps-converted-to.pdf>
+Package pdftex.def Info: figures/delunolabel-eps-converted-to.pdf  used on input line 432.
+(pdftex.def)             Requested size: 167.2989pt x 167.298pt.
+Package epstopdf Info: Source file: <figures/labelandseedcolors.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 224237 bytes
+(epstopdf)             Output file: <figures/labelandseedcolors-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:14
+(epstopdf)                    size: 197597 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/labelandseedcolors-eps-converted-to.pdf figures/labelandseedcolors.eps>
+(epstopdf)             \includegraphics on input line 433.
+Package epstopdf Info: Output file is already uptodate.
+<figures/labelandseedcolors-eps-converted-to.pdf, id=96, 328.22626pt x 328.22626pt>
+File: figures/labelandseedcolors-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/labelandseedcolors-eps-converted-to.pdf>
+Package pdftex.def Info: figures/labelandseedcolors-eps-converted-to.pdf  used on input line 433.
+(pdftex.def)             Requested size: 167.2989pt x 167.298pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/travelphase2.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 85154 bytes
+(epstopdf)             Output file: <figures/travelphase2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:15
+(epstopdf)                    size: 62744 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/travelphase2-eps-converted-to.pdf figures/travelphase2.eps>
+(epstopdf)             \includegraphics on input line 480.
+Package epstopdf Info: Output file is already uptodate.
+<figures/travelphase2-eps-converted-to.pdf, id=111, 404.51125pt x 198.7425pt>
+File: figures/travelphase2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/travelphase2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/travelphase2-eps-converted-to.pdf  used on input line 480.
+(pdftex.def)             Requested size: 209.12683pt x 102.74927pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/be3split1.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 7622 bytes
+(epstopdf)             Output file: <figures/be3split1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:15
+(epstopdf)                    size: 3874 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/be3split1-eps-converted-to.pdf figures/be3split1.eps>
+(epstopdf)             \includegraphics on input line 510.
+Package epstopdf Info: Output file is already uptodate.
+<figures/be3split1-eps-converted-to.pdf, id=166, 375.4025pt x 390.45876pt>
+File: figures/be3split1-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/be3split1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/be3split1-eps-converted-to.pdf  used on input line 510.
+(pdftex.def)             Requested size: 125.47737pt x 130.50807pt.
+Package epstopdf Info: Source file: <figures/be3split2v2.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 123429 bytes
+(epstopdf)             Output file: <figures/be3split2v2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:15
+(epstopdf)                    size: 113298 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/be3split2v2-eps-converted-to.pdf figures/be3split2v2.eps>
+(epstopdf)             \includegraphics on input line 510.
+Package epstopdf Info: Output file is already uptodate.
+<figures/be3split2v2-eps-converted-to.pdf, id=167, 375.4025pt x 390.45876pt>
+File: figures/be3split2v2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/be3split2v2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/be3split2v2-eps-converted-to.pdf  used on input line 510.
+(pdftex.def)             Requested size: 125.47737pt x 130.50807pt.
+Package epstopdf Info: Source file: <figures/be3split3v2.eps>
+(epstopdf)                    date: 2021-08-25 12:46:24
+(epstopdf)                    size: 152430 bytes
+(epstopdf)             Output file: <figures/be3split3v2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 12:50:16
+(epstopdf)                    size: 140819 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/be3split3v2-eps-converted-to.pdf figures/be3split3v2.eps>
+(epstopdf)             \includegraphics on input line 510.
+Package epstopdf Info: Output file is already uptodate.
+<figures/be3split3v2-eps-converted-to.pdf, id=168, 392.46625pt x 411.5375pt>
+File: figures/be3split3v2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/be3split3v2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/be3split3v2-eps-converted-to.pdf  used on input line 510.
+(pdftex.def)             Requested size: 125.47737pt x 131.57538pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2-eps-converted-to.pdf>] [11 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2-eps-converted-to.pdf>]
+<figures/1000points.png, id=203, 502.12593pt x 500.62032pt>
+File: figures/1000points.png Graphic file (type png)
+<use figures/1000points.png>
+Package pdftex.def Info: figures/1000points.png  used on input line 651.
+(pdftex.def)             Requested size: 125.47737pt x 125.10129pt.
+<figures/voronoicomparision.png, id=205, 910.40125pt x 907.39pt>
+File: figures/voronoicomparision.png Graphic file (type png)
+<use figures/voronoicomparision.png>
+Package pdftex.def Info: figures/voronoicomparision.png  used on input line 652.
+(pdftex.def)             Requested size: 125.47737pt x 125.0538pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/faceoriginalPSLG.png, id=206, 676.77844pt x 678.28406pt>
+File: figures/faceoriginalPSLG.png Graphic file (type png)
+<use figures/faceoriginalPSLG.png>
+Package pdftex.def Info: figures/faceoriginalPSLG.png  used on input line 660.
+(pdftex.def)             Requested size: 125.47737pt x 125.74968pt.
+<figures/face26p.png, id=207, 758.835pt x 758.835pt>
+File: figures/face26p.png Graphic file (type png)
+<use figures/face26p.png>
+Package pdftex.def Info: figures/face26p.png  used on input line 661.
+(pdftex.def)             Requested size: 125.47737pt x 125.46869pt.
+<figures/facerefinement.png, id=208, 748.29562pt x 748.29562pt>
+File: figures/facerefinement.png Graphic file (type png)
+<use figures/facerefinement.png>
+Package pdftex.def Info: figures/facerefinement.png  used on input line 662.
+(pdftex.def)             Requested size: 125.47737pt x 125.47302pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/unicorntriangulation.png, id=209, 525.46312pt x 594.72188pt>
+File: figures/unicorntriangulation.png Graphic file (type png)
+<use figures/unicorntriangulation.png>
+Package pdftex.def Info: figures/unicorntriangulation.png  used on input line 670.
+(pdftex.def)             Requested size: 104.56342pt x 118.34334pt.
+<figures/unicorn.png, id=210, 463.7325pt x 525.46312pt>
+File: figures/unicorn.png Graphic file (type png)
+<use figures/unicorn.png>
+Package pdftex.def Info: figures/unicorn.png  used on input line 671.
+(pdftex.def)             Requested size: 104.56342pt x 118.48067pt.
+
+Underfull \hbox (badness 1253) in paragraph at lines 671--671
+[]\OT1/cmr/m/n/8 (b) Uni-corn Terminal-edge
+ []
+
+<figures/voronoiunicord.png, id=211, 557.83406pt x 626.34pt>
+File: figures/voronoiunicord.png Graphic file (type png)
+<use figures/voronoiunicord.png>
+Package pdftex.def Info: figures/voronoiunicord.png  used on input line 672.
+(pdftex.def)             Requested size: 104.56342pt x 117.40022pt.
+<figures/unicorn100.png, id=212, 668.4975pt x 757.32938pt>
+File: figures/unicorn100.png Graphic file (type png)
+<use figures/unicorn100.png>
+Package pdftex.def Info: figures/unicorn100.png  used on input line 673.
+(pdftex.def)             Requested size: 104.56342pt x 118.44798pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (8.24696pt too wide) in paragraph at lines 697--701
+\OT1/cmr/m/n/10 In this sec-tion, we as-sess the terminal-edge re-gion meshes in the vir-tual el-e-ment method (VEM) [25].
+ []
+
+[12]
+<figures/Lshaped_random.png, id=216, 421.575pt x 316.18124pt>
+File: figures/Lshaped_random.png Graphic file (type png)
+<use figures/Lshaped_random.png>
+Package pdftex.def Info: figures/Lshaped_random.png  used on input line 716.
+(pdftex.def)             Requested size: 200.75996pt x 150.57361pt.
+<figures/Lshaped_semiuniform.png, id=217, 421.575pt x 316.18124pt>
+File: figures/Lshaped_semiuniform.png Graphic file (type png)
+<use figures/Lshaped_semiuniform.png>
+Package pdftex.def Info: figures/Lshaped_semiuniform.png  used on input line 717.
+(pdftex.def)             Requested size: 200.75996pt x 150.57361pt.
+ [13 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/1000points.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/voronoicomparision.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/faceoriginalPSLG.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/face26p.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/facerefinement.png>]
+<figures/L2_norm_random_Lshaped.png, id=228, 421.575pt x 316.18124pt>
+File: figures/L2_norm_random_Lshaped.png Graphic file (type png)
+<use figures/L2_norm_random_Lshaped.png>
+Package pdftex.def Info: figures/L2_norm_random_Lshaped.png  used on input line 724.
+(pdftex.def)             Requested size: 167.2989pt x 125.4764pt.
+<figures/H1_norm_random_Lshaped.png, id=229, 421.575pt x 316.18124pt>
+File: figures/H1_norm_random_Lshaped.png Graphic file (type png)
+<use figures/H1_norm_random_Lshaped.png>
+Package pdftex.def Info: figures/H1_norm_random_Lshaped.png  used on input line 725.
+(pdftex.def)             Requested size: 167.2989pt x 125.4764pt.
+<figures/L2_norm_semiuniform_Lshaped.png, id=230, 421.575pt x 316.18124pt>
+File: figures/L2_norm_semiuniform_Lshaped.png Graphic file (type png)
+<use figures/L2_norm_semiuniform_Lshaped.png>
+Package pdftex.def Info: figures/L2_norm_semiuniform_Lshaped.png  used on input line 732.
+(pdftex.def)             Requested size: 167.2989pt x 125.4764pt.
+<figures/H1_norm_semiuniform_Lshaped.png, id=231, 421.575pt x 316.18124pt>
+File: figures/H1_norm_semiuniform_Lshaped.png Graphic file (type png)
+<use figures/H1_norm_semiuniform_Lshaped.png>
+Package pdftex.def Info: figures/H1_norm_semiuniform_Lshaped.png  used on input line 733.
+(pdftex.def)             Requested size: 167.2989pt x 125.4764pt.
+<figures/contour_plot_random_Lshaped.png, id=232, 421.575pt x 316.18124pt>
+File: figures/contour_plot_random_Lshaped.png Graphic file (type png)
+<use figures/contour_plot_random_Lshaped.png>
+Package pdftex.def Info: figures/contour_plot_random_Lshaped.png  used on input line 740.
+(pdftex.def)             Requested size: 188.21288pt x 141.16095pt.
+<figures/contour_plot_semiuniform_Lshaped.png, id=233, 421.575pt x 316.18124pt>
+File: figures/contour_plot_semiuniform_Lshaped.png Graphic file (type png)
+<use figures/contour_plot_semiuniform_Lshaped.png>
+Package pdftex.def Info: figures/contour_plot_semiuniform_Lshaped.png  used on input line 741.
+(pdftex.def)             Requested size: 188.21288pt x 141.16095pt.
+ [14 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorntriangulation.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorn.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/voronoiunicord.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorn100.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/Lshaped_random.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/Lshaped_semiuniform.png (PNG copy)>] (/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/main.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/L2_norm_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/H1_norm_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/L2_norm_semiuniform_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/H1_norm_semiuniform_Lshaped.png (PNG copy)>] [16 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/contour_plot_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/contour_plot_semiuniform_Lshaped.png (PNG copy)>]
+Underfull \hbox (badness 3826) in paragraph at lines 138--142
+[]\OT1/cmr/m/n/8 Turner, R.: deldir: De-lau-nay Tri-an-gu-la-tion and Dirich-let (Voronoi) Tes-sel-la-tion (2021).  URL
+ []
+
+) [17] (/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 9860 strings out of 481239
+ 164251 string characters out of 5920377
+ 453827 words of memory out of 5000000
+ 24923 multiletter control sequences out of 15000+600000
+ 541455 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,15n,57p,1169b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/main.pdf (17 pages, 4350117 bytes).
+PDF statistics:
+ 297 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+
