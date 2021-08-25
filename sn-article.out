@@ -1,0 +1,15 @@
+\BOOKMARK [1][]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][]{section.2}{Related work}{}% 2
+\BOOKMARK [1][]{section.3}{Basic concepts}{}% 3
+\BOOKMARK [2][]{subsection.3.1}{Terminal-edge regions}{section.3}% 4
+\BOOKMARK [2][]{subsection.3.2}{Terminal-edge regions as polygons}{section.3}% 5
+\BOOKMARK [1][]{section.4}{The algorithm}{}% 6
+\BOOKMARK [2][]{subsection.4.1}{Data structures}{section.4}% 7
+\BOOKMARK [2][]{subsection.4.2}{Label Phase}{section.4}% 8
+\BOOKMARK [2][]{subsection.4.3}{Travel Phase}{section.4}% 9
+\BOOKMARK [2][]{subsection.4.4}{Non-simple polygon reparation}{section.4}% 10
+\BOOKMARK [2][]{subsection.4.5}{Computational Complexity Analysis}{section.4}% 11
+\BOOKMARK [1][]{section.5}{Terminal-edge regions based meshes vs Voronoi based meshes}{}% 12
+\BOOKMARK [1][]{section.6}{Preliminary Simulation Results}{}% 13
+\BOOKMARK [1][]{section.7}{Conclusions and ongoing work}{}% 14
+\BOOKMARK [1][]{appendix.a.A}{Section title of first appendix}{}% 15

@@ -1,0 +1,1318 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.15)  25 AUG 2021 19:02
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.tex"
+(/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-jnl.cls
+Document Class: sn-jnl 2019/11/18 v0.1: An authoring template for Springer Journal articles
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\dimen134
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+) (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+LaTeX Info: Redefining \rm on input line 138.
+LaTeX Info: Redefining \sf on input line 139.
+LaTeX Info: Redefining \tt on input line 140.
+LaTeX Info: Redefining \bf on input line 141.
+LaTeX Info: Redefining \it on input line 142.
+LaTeX Info: Redefining \sl on input line 143.
+LaTeX Info: Redefining \sc on input line 144.
+LaTeX Info: Redefining \cal on input line 145.
+LaTeX Info: Redefining \mit on input line 146.
+LaTeX Info: Redefining \textsubscript on input line 204.
+\columnhsize=\skip49
+ (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen136
+\Gm@wd@mp=\dimen137
+\Gm@odd@mp=\dimen138
+\Gm@even@mp=\dimen139
+\Gm@layoutwidth=\dimen140
+\Gm@layoutheight=\dimen141
+\Gm@layouthoffset=\dimen142
+\Gm@layoutvoffset=\dimen143
+\Gm@dimlist=\toks15
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip50
+\multirow@cntb=\count178
+\multirow@dima=\skip51
+\bigstrutjot=\dimen146
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen147
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count179
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count180
+\leftroot@=\count181
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count182
+\DOTSCASE@=\count183
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count184
+\c@MaxMatrixCols=\count185
+\dotsspace@=\muskip16
+\c@parentequation=\count186
+\dspbrk@lvl=\count187
+\tag@help=\toks17
+\row@=\count188
+\column@=\count189
+\maxfields@=\count190
+\andhelp@=\toks18
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks19
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count191
+\rotFPtop=\skip58
+\rotFPbot=\skip59
+\rot@float@box=\box47
+\rot@mess@toks=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count192
+\c@@ppsavesec=\count193
+\c@@ppsaveapp=\count194
+) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/ncctools/manyfoot.sty
+Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
+ (/usr/share/texlive/texmf-dist/tex/latex/ncctools/nccfoots.sty
+Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
+)
+\MFL@columnwidth=\dimen156
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen157
+\lightrulewidth=\dimen158
+\cmidrulewidth=\dimen159
+\belowrulesep=\dimen160
+\belowbottomsep=\dimen161
+\aboverulesep=\dimen162
+\abovetopsep=\dimen163
+\cmidrulesep=\dimen164
+\cmidrulekern=\dimen165
+\defaultaddspace=\dimen166
+\@cmidla=\count195
+\@cmidlb=\count196
+\@aboverulesep=\dimen167
+\@belowrulesep=\dimen168
+\@thisruleclass=\count197
+\@lastruleclass=\count198
+\@thisrulewidth=\dimen169
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count199
+\float@exts=\toks28
+\float@box=\box48
+\@float@everytoks=\toks29
+\@floatcapt=\box49
+)
+\@float@every@algorithm=\toks30
+\c@algorithm=\count266
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count267
+\c@ALG@rem=\count268
+\c@ALG@nested=\count269
+\ALG@tlm=\skip60
+\ALG@thistlm=\skip61
+\c@ALG@Lnr=\count270
+\c@ALG@blocknr=\count271
+\c@ALG@storecount=\count272
+\c@ALG@tmpcounter=\count273
+\ALG@tmplength=\skip62
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/share/texlive/texmf-dist/tex/latex/program/program.sty
+\@gtempa=\dimen170
+\@gtempa=\dimen171
+\@gtempa=\dimen172
+\@gtempa=\dimen173
+\@gtempa=\dimen174
+\@gtempa=\dimen175
+\@gtempa=\dimen176
+\@gtempa=\dimen177
+\@gtempa=\dimen178
+\@gtempa=\dimen179
+\@gtempa=\dimen180
+\@gtempa=\dimen181
+\@gtempa=\dimen182
+\@gtempa=\dimen183
+\@gtempa=\dimen184
+\@gtempa=\dimen185
+\@gtempa=\dimen186
+\@gtempa=\dimen187
+\@gtempa=\dimen188
+\@gtempa=\dimen189
+\@gtempa=\dimen190
+\@gtempa=\dimen191
+\@gtempa=\dimen192
+\@gtempa=\dimen193
+\@gtempa=\dimen194
+\@gtempa=\dimen195
+\@gtempa=\dimen196
+\@gtempa=\dimen197
+\@gtempa=\dimen198
+\@gtempa=\dimen199
+\@gtempa=\dimen256
+\@gtempa=\dimen257
+\@gtempa=\dimen258
+\@gtempa=\dimen259
+\@gtempa=\dimen260
+\@gtempa=\dimen261
+\@gtempa=\dimen262
+\@gtempa=\dimen263
+\@gtempa=\dimen264
+\@gtempa=\dimen265
+\@gtempa=\dimen266
+\@gtempa=\dimen267
+\@gtempa=\dimen268
+\@gtempa=\dimen269
+\@gtempa=\dimen270
+\@gtempa=\dimen271
+\@gtempa=\dimen272
+\@gtempa=\dimen273
+\@gtempa=\dimen274
+\@gtempa=\dimen275
+\c@programline=\count274
+\old@nxttabmar=\count275
+\symeulerletters=\mathgroup7
+\powersetbox=\box50
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 841.
+
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 841.
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
+(Font)              size <17.28> substituted on input line 841.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 841.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 841.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 841.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 841.
+ (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 841.
+
+LaTeX Font Info:    Trying to load font information for U+eur on input line 841.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+)) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count276
+\lst@gtempboxa=\box51
+\lst@token=\toks31
+\lst@length=\count277
+\lst@currlwidth=\dimen276
+\lst@column=\count278
+\lst@pos=\count279
+\lst@lostspace=\dimen277
+\lst@width=\dimen278
+\lst@newlines=\count280
+\lst@lineno=\count281
+\lst@maxwidth=\dimen279
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count282
+\lst@skipnumbers=\count283
+\lst@framebox=\box52
+) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+\artcatbox=\box53
+\aucount=\count284
+\corraucount=\count285
+\punctcount=\count286
+\emailcnt=\count287
+\c@affn=\count288
+\addcount=\count289
+\PacsCount=\count290
+\PacsTmpCnt=\count291
+\FMremarkdim=\dimen280
+\fmremarkbox=\box54
+\opshortpage=\dimen281
+\labelwidthi=\dimen282
+\labelwidthii=\dimen283
+\labelwidthiii=\dimen284
+\labelwidthiv=\dimen285
+\figwidth=\dimen286
+\figheight=\dimen287
+\sidecapwidth=\dimen288
+\wrapcapline=\dimen289
+\totalwrapline=\dimen290
+\wraptotline=\dimen291
+\figurebox=\box55
+\wrapfigcapbox=\box56
+\figcapbox=\box57
+\capbox=\box58
+\headwidthskip=\skip63
+\tabcapbox=\box59
+\temptbox=\box60
+\tempdime=\dimen292
+\tabhtdime=\dimen293
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen294
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count294
+\pdfmajorversion=\count295
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count296
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen295
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count297
+\Field@Width=\dimen296
+\Fld@charsize=\dimen297
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+ (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count298
+\c@Item=\count299
+\c@Hfootnote=\count300
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count301
+\c@bookmark@seq@number=\count302
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip64
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 1486.
+Package hyperref Info: Option `breaklinks' set `true' on input line 1486.
+Package hyperref Info: Option `plainpages' set `false' on input line 1486.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 1486.
+Package hyperref Info: Option `bookmarksnumbered' set `false' on input line 1486.
+ (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen298
+\WF@size=\dimen299
+\c@WF@wrappedlines=\count303
+\WF@box=\box61
+\WF@everypar=\toks32
+Package: wrapfig 2003/01/31  v 3.6
+)
+\wraplines=\count304
+\@authorfigbox=\box62
+\@authorfigboxdim=\skip65
+\biofigadjskip=\skip66
+ (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip67
+\bibsep=\skip68
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count305
+)) (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip69
+\subfigcapskip=\skip70
+\subfigcaptopadj=\dimen300
+\subfigbottomskip=\skip71
+\subfigcapmargin=\dimen301
+\subfiglabelskip=\skip72
+\c@subfigure=\count306
+\c@lofdepth=\count307
+\c@subtable=\count308
+\c@lotdepth=\count309
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip73
+\subfig@bottom=\skip74
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip75
+\enit@outerparindent=\dimen302
+\enit@toks=\toks33
+\enit@inbox=\box63
+\enit@count@id=\count310
+\enitdp@description=\count311
+)
+\c@theorem=\count312
+\c@example=\count313
+\c@remark=\count314
+\c@definition=\count315
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count316
+\l__pdf_internal_box=\box64
+) (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.aux
+
+LaTeX Warning: Label `fig:meshdatastruct' multiply defined.
+
+
+LaTeX Warning: Label `table:results' multiply defined.
+
+)
+\openout1 = `sn-article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+\footinsA=\insert252
+\c@footnoteA=\count317
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 17.07164pt
+* modes: twoside 
+* h-part:(L,W,R)=(34.14331pt, 338.58778pt, 51.21498pt)
+* v-part:(T,H,B)=(55.48286pt, 552.69478pt, 60.46211pt)
+* \paperwidth=441.01772pt
+* \paperheight=668.63976pt
+* \textwidth=338.58778pt
+* \textheight=552.69478pt
+* \oddsidemargin=-21.05504pt
+* \evensidemargin=-21.05501pt
+* \topmargin=-38.22067pt
+* \headheight=5.5pt
+* \headsep=15.93355pt
+* \topskip=10.0pt
+* \footskip=28.45274pt
+* \marginparwidth=34.1433pt
+* \marginparsep=14.22636pt
+* \columnsep=14.22636pt
+* \skip\footins=8.0pt plus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemargintrue
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count318
+\scratchdimen=\dimen303
+\scratchbox=\box65
+\nofMPsegments=\count319
+\nofMParguments=\count320
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count321
+\MPscratchDim=\dimen304
+\MPnumerator=\count322
+\makeMPintoPDFobject=\count323
+\everyMPtoPDFconversion=\toks35
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@lstlisting=\count324
+\AtBeginShipoutBox=\box66
+Package hyperref Info: Link coloring ON on input line 75.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count325
+)
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
+ (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out) (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out)
+\@outlinefile=\write3
+\openout3 = `sn-article.out'.
+
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 75.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 75.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 75.
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 134.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 134.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <8.43146> not available
+(Font)              size <8> substituted on input line 134.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 134.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 134.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 134.
+
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 134.
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.52061> not available
+(Font)              size <6> substituted on input line 134.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.52061> not available
+(Font)              size <6> substituted on input line 134.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.52061> not available
+(Font)              size <6> substituted on input line 134.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.52061> not available
+(Font)              size <6> substituted on input line 134.
+
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 134.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [3]
+Package epstopdf Info: Source file: <figures/leppex1.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 89129 bytes
+(epstopdf)             Output file: <figures/leppex1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 71436 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/leppex1-eps-converted-to.pdf figures/leppex1.eps>
+(epstopdf)             \includegraphics on input line 204.
+Package epstopdf Info: Output file is already uptodate.
+<figures/leppex1-eps-converted-to.pdf, id=147, 328.22626pt x 328.22626pt>
+File: figures/leppex1-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/leppex1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/leppex1-eps-converted-to.pdf  used on input line 204.
+(pdftex.def)             Requested size: 101.57736pt x 101.5788pt.
+Package epstopdf Info: Source file: <figures/leppex2.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 146308 bytes
+(epstopdf)             Output file: <figures/leppex2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 98861 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/leppex2-eps-converted-to.pdf figures/leppex2.eps>
+(epstopdf)             \includegraphics on input line 205.
+Package epstopdf Info: Output file is already uptodate.
+<figures/leppex2-eps-converted-to.pdf, id=148, 328.22626pt x 328.22626pt>
+File: figures/leppex2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/leppex2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/leppex2-eps-converted-to.pdf  used on input line 205.
+(pdftex.def)             Requested size: 101.57736pt x 101.5788pt.
+Package epstopdf Info: Source file: <figures/leppex3.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 114547 bytes
+(epstopdf)             Output file: <figures/leppex3-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 105475 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/leppex3-eps-converted-to.pdf figures/leppex3.eps>
+(epstopdf)             \includegraphics on input line 206.
+Package epstopdf Info: Output file is already uptodate.
+<figures/leppex3-eps-converted-to.pdf, id=149, 328.22626pt x 328.22626pt>
+File: figures/leppex3-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/leppex3-eps-converted-to.pdf>
+Package pdftex.def Info: figures/leppex3-eps-converted-to.pdf  used on input line 206.
+(pdftex.def)             Requested size: 101.57736pt x 101.5788pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [4 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3-eps-converted-to.pdf>]
+Underfull \hbox (badness 3803) in paragraph at lines 235--236
+[]\OT1/cmr/m/n/10 Terminal-edge regions cover the whole domain with-out over-lap-
+ []
+
+Package epstopdf Info: Source file: <figures/delaunaypoints.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 7982 bytes
+(epstopdf)             Output file: <figures/delaunaypoints-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 4111 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/delaunaypoints-eps-converted-to.pdf figures/delaunaypoints.eps>
+(epstopdf)             \includegraphics on input line 252.
+Package epstopdf Info: Output file is already uptodate.
+<figures/delaunaypoints-eps-converted-to.pdf, id=204, 328.22626pt x 328.22626pt>
+File: figures/delaunaypoints-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/delaunaypoints-eps-converted-to.pdf>
+Package pdftex.def Info: figures/delaunaypoints-eps-converted-to.pdf  used on input line 252.
+(pdftex.def)             Requested size: 101.57736pt x 101.5788pt.
+Package epstopdf Info: Source file: <figures/delaunaylabel.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 11918 bytes
+(epstopdf)             Output file: <figures/delaunaylabel-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 4764 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/delaunaylabel-eps-converted-to.pdf figures/delaunaylabel.eps>
+(epstopdf)             \includegraphics on input line 253.
+Package epstopdf Info: Output file is already uptodate.
+<figures/delaunaylabel-eps-converted-to.pdf, id=205, 328.22626pt x 328.22626pt>
+File: figures/delaunaylabel-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/delaunaylabel-eps-converted-to.pdf>
+Package pdftex.def Info: figures/delaunaylabel-eps-converted-to.pdf  used on input line 253.
+(pdftex.def)             Requested size: 101.57736pt x 101.5788pt.
+Package epstopdf Info: Source file: <figures/delaunaylabelcolors.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 183020 bytes
+(epstopdf)             Output file: <figures/delaunaylabelcolors-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 158193 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/delaunaylabelcolors-eps-converted-to.pdf figures/delaunaylabelcolors.eps>
+(epstopdf)             \includegraphics on input line 254.
+Package epstopdf Info: Output file is already uptodate.
+<figures/delaunaylabelcolors-eps-converted-to.pdf, id=206, 328.22626pt x 328.22626pt>
+File: figures/delaunaylabelcolors-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/delaunaylabelcolors-eps-converted-to.pdf>
+Package pdftex.def Info: figures/delaunaylabelcolors-eps-converted-to.pdf  used on input line 254.
+(pdftex.def)             Requested size: 101.57736pt x 101.5788pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [5 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/simplebe.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 4009 bytes
+(epstopdf)             Output file: <figures/simplebe-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 3016 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/simplebe-eps-converted-to.pdf figures/simplebe.eps>
+(epstopdf)             \includegraphics on input line 299.
+Package epstopdf Info: Output file is already uptodate.
+<figures/simplebe-eps-converted-to.pdf, id=230, 132.495pt x 164.615pt>
+File: figures/simplebe-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/simplebe-eps-converted-to.pdf>
+Package pdftex.def Info: figures/simplebe-eps-converted-to.pdf  used on input line 299.
+(pdftex.def)             Requested size: 50.78609pt x 63.0969pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]\OT1/cmr/m/n/7 (a) One
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/7 barrier-edge
+ []
+
+Package epstopdf Info: Source file: <figures/nosimplebe.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 6379 bytes
+(epstopdf)             Output file: <figures/nosimplebe-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 3636 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/nosimplebe-eps-converted-to.pdf figures/nosimplebe.eps>
+(epstopdf)             \includegraphics on input line 300.
+Package epstopdf Info: Output file is already uptodate.
+<figures/nosimplebe-eps-converted-to.pdf, id=231, 186.6975pt x 208.78pt>
+File: figures/nosimplebe-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/nosimplebe-eps-converted-to.pdf>
+Package pdftex.def Info: figures/nosimplebe-eps-converted-to.pdf  used on input line 300.
+(pdftex.def)             Requested size: 50.78609pt x 56.79185pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+[]\OT1/cmr/m/n/7 (b) Four barrier-
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 300--300
+\OT1/cmr/m/n/7 edges and two tips
+ []
+
+Package epstopdf Info: Source file: <figures/demostracionlemma2.1.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 47100 bytes
+(epstopdf)             Output file: <figures/demostracionlemma2.1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 6086 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/demostracionlemma2.1-eps-converted-to.pdf figures/demostracionlemma2.1.eps>
+(epstopdf)             \includegraphics on input line 327.
+Package epstopdf Info: Output file is already uptodate.
+<figures/demostracionlemma2.1-eps-converted-to.pdf, id=235, 179.67125pt x 163.61125pt>
+File: figures/demostracionlemma2.1-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/demostracionlemma2.1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/demostracionlemma2.1-eps-converted-to.pdf  used on input line 327.
+(pdftex.def)             Requested size: 84.64694pt x 77.08203pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [6 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [7 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [8]
+<figures/data_struc_withpoints.png, id=285, 406.51875pt x 409.53pt>
+File: figures/data_struc_withpoints.png Graphic file (type png)
+<use figures/data_struc_withpoints.png>
+Package pdftex.def Info: figures/data_struc_withpoints.png  used on input line 371.
+(pdftex.def)             Requested size: 101.57736pt x 102.326pt.
+<figures/triangulo.png, id=286, 678.535pt x 578.16pt>
+File: figures/triangulo.png Graphic file (type png)
+<use figures/triangulo.png>
+Package pdftex.def Info: figures/triangulo.png  used on input line 372.
+(pdftex.def)             Requested size: 101.57736pt x 86.54381pt.
+Package epstopdf Info: Source file: <figures/polyarray.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 24855 bytes
+(epstopdf)             Output file: <figures/polyarray-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 6261 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/polyarray-eps-converted-to.pdf figures/polyarray.eps>
+(epstopdf)             \includegraphics on input line 384.
+Package epstopdf Info: Output file is already uptodate.
+<figures/polyarray-eps-converted-to.pdf, id=287, 241.90375pt x 159.59625pt>
+File: figures/polyarray-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/polyarray-eps-converted-to.pdf>
+Package pdftex.def Info: figures/polyarray-eps-converted-to.pdf  used on input line 384.
+(pdftex.def)             Requested size: 135.43304pt x 89.35623pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 394.
+
+Package epstopdf Info: Source file: <figures/meshdatastruct.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 59038 bytes
+(epstopdf)             Output file: <figures/meshdatastruct-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 9646 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/meshdatastruct-eps-converted-to.pdf figures/meshdatastruct.eps>
+(epstopdf)             \includegraphics on input line 396.
+Package epstopdf Info: Output file is already uptodate.
+<figures/meshdatastruct-eps-converted-to.pdf, id=288, 370.38374pt x 150.5625pt>
+File: figures/meshdatastruct-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/meshdatastruct-eps-converted-to.pdf>
+Package pdftex.def Info: figures/meshdatastruct-eps-converted-to.pdf  used on input line 396.
+(pdftex.def)             Requested size: 237.0104pt x 96.34587pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [9 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/data_struc_withpoints.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/triangulo.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray-eps-converted-to.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 410.
+
+Package epstopdf Info: Source file: <figures/meshdatastruct.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 59038 bytes
+(epstopdf)             Output file: <figures/meshdatastruct-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 9646 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/meshdatastruct-eps-converted-to.pdf figures/meshdatastruct.eps>
+(epstopdf)             \includegraphics on input line 412.
+Package epstopdf Info: Output file is already uptodate.
+File: figures/meshdatastruct-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/meshdatastruct-eps-converted-to.pdf>
+Package pdftex.def Info: figures/meshdatastruct-eps-converted-to.pdf  used on input line 412.
+(pdftex.def)             Requested size: 237.0104pt x 96.34587pt.
+Package epstopdf Info: Source file: <figures/delunolabel.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 11194 bytes
+(epstopdf)             Output file: <figures/delunolabel-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 4692 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/delunolabel-eps-converted-to.pdf figures/delunolabel.eps>
+(epstopdf)             \includegraphics on input line 434.
+Package epstopdf Info: Output file is already uptodate.
+<figures/delunolabel-eps-converted-to.pdf, id=305, 328.22626pt x 328.22626pt>
+File: figures/delunolabel-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/delunolabel-eps-converted-to.pdf>
+Package pdftex.def Info: figures/delunolabel-eps-converted-to.pdf  used on input line 434.
+(pdftex.def)             Requested size: 135.43304pt x 135.43506pt.
+Package epstopdf Info: Source file: <figures/labelandseedcolors.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 224237 bytes
+(epstopdf)             Output file: <figures/labelandseedcolors-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 197597 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/labelandseedcolors-eps-converted-to.pdf figures/labelandseedcolors.eps>
+(epstopdf)             \includegraphics on input line 435.
+Package epstopdf Info: Output file is already uptodate.
+<figures/labelandseedcolors-eps-converted-to.pdf, id=306, 328.22626pt x 328.22626pt>
+File: figures/labelandseedcolors-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/labelandseedcolors-eps-converted-to.pdf>
+Package pdftex.def Info: figures/labelandseedcolors-eps-converted-to.pdf  used on input line 435.
+(pdftex.def)             Requested size: 135.43304pt x 135.43506pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [10 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [11 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/travelphase2.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 85154 bytes
+(epstopdf)             Output file: <figures/travelphase2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 62744 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/travelphase2-eps-converted-to.pdf figures/travelphase2.eps>
+(epstopdf)             \includegraphics on input line 482.
+Package epstopdf Info: Output file is already uptodate.
+<figures/travelphase2-eps-converted-to.pdf, id=389, 404.51125pt x 198.7425pt>
+File: figures/travelphase2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/travelphase2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/travelphase2-eps-converted-to.pdf  used on input line 482.
+(pdftex.def)             Requested size: 169.29388pt x 83.17711pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [12 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figures/be3split1.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 7622 bytes
+(epstopdf)             Output file: <figures/be3split1-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 3874 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/be3split1-eps-converted-to.pdf figures/be3split1.eps>
+(epstopdf)             \includegraphics on input line 512.
+Package epstopdf Info: Output file is already uptodate.
+<figures/be3split1-eps-converted-to.pdf, id=406, 375.4025pt x 390.45876pt>
+File: figures/be3split1-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/be3split1-eps-converted-to.pdf>
+Package pdftex.def Info: figures/be3split1-eps-converted-to.pdf  used on input line 512.
+(pdftex.def)             Requested size: 101.57736pt x 105.65167pt.
+Package epstopdf Info: Source file: <figures/be3split2v2.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 123429 bytes
+(epstopdf)             Output file: <figures/be3split2v2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 113298 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/be3split2v2-eps-converted-to.pdf figures/be3split2v2.eps>
+(epstopdf)             \includegraphics on input line 512.
+Package epstopdf Info: Output file is already uptodate.
+<figures/be3split2v2-eps-converted-to.pdf, id=407, 375.4025pt x 390.45876pt>
+File: figures/be3split2v2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/be3split2v2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/be3split2v2-eps-converted-to.pdf  used on input line 512.
+(pdftex.def)             Requested size: 101.57736pt x 105.65167pt.
+Package epstopdf Info: Source file: <figures/be3split3v2.eps>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 152430 bytes
+(epstopdf)             Output file: <figures/be3split3v2-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-08-25 13:20:55
+(epstopdf)                    size: 140819 bytes
+(epstopdf)             Command: <repstopdf --outfile=figures/be3split3v2-eps-converted-to.pdf figures/be3split3v2.eps>
+(epstopdf)             \includegraphics on input line 512.
+Package epstopdf Info: Output file is already uptodate.
+<figures/be3split3v2-eps-converted-to.pdf, id=408, 392.46625pt x 411.5375pt>
+File: figures/be3split3v2-eps-converted-to.pdf Graphic file (type pdf)
+<use figures/be3split3v2-eps-converted-to.pdf>
+Package pdftex.def Info: figures/be3split3v2-eps-converted-to.pdf  used on input line 512.
+(pdftex.def)             Requested size: 101.57736pt x 106.5137pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [13 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2-eps-converted-to.pdf>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 610.
+
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 621.
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 621.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.015> not available
+(Font)              size <5> substituted on input line 621.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 621.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 621.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 628.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [14]
+<figures/1000points.png, id=457, 502.12593pt x 500.62032pt>
+File: figures/1000points.png Graphic file (type png)
+<use figures/1000points.png>
+Package pdftex.def Info: figures/1000points.png  used on input line 652.
+(pdftex.def)             Requested size: 101.57736pt x 101.26811pt.
+<figures/voronoicomparision.png, id=459, 910.40125pt x 907.39pt>
+File: figures/voronoicomparision.png Graphic file (type png)
+<use figures/voronoicomparision.png>
+Package pdftex.def Info: figures/voronoicomparision.png  used on input line 653.
+(pdftex.def)             Requested size: 101.57736pt x 101.2393pt.
+<figures/faceoriginalPSLG.png, id=461, 676.77844pt x 678.28406pt>
+File: figures/faceoriginalPSLG.png Graphic file (type png)
+<use figures/faceoriginalPSLG.png>
+Package pdftex.def Info: figures/faceoriginalPSLG.png  used on input line 661.
+(pdftex.def)             Requested size: 101.57736pt x 101.80031pt.
+<figures/face26p.png, id=463, 758.835pt x 758.835pt>
+File: figures/face26p.png Graphic file (type png)
+<use figures/face26p.png>
+Package pdftex.def Info: figures/face26p.png  used on input line 662.
+(pdftex.def)             Requested size: 101.57736pt x 101.56989pt.
+
+Underfull \hbox (badness 1603) in paragraph at lines 662--662
+[]\OT1/cmr/m/n/7 (b) Face from Con-strained
+ []
+
+<figures/facerefinement.png, id=464, 748.29562pt x 748.29562pt>
+File: figures/facerefinement.png Graphic file (type png)
+<use figures/facerefinement.png>
+Package pdftex.def Info: figures/facerefinement.png  used on input line 663.
+(pdftex.def)             Requested size: 101.57736pt x 101.57503pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<figures/unicorntriangulation.png, id=466, 525.46312pt x 594.72188pt>
+File: figures/unicorntriangulation.png Graphic file (type png)
+<use figures/unicorntriangulation.png>
+Package pdftex.def Info: figures/unicorntriangulation.png  used on input line 671.
+(pdftex.def)             Requested size: 84.64694pt x 95.80174pt.
+
+Underfull \hbox (badness 1189) in paragraph at lines 671--671
+[]\OT1/cmr/m/n/7 (a) Uni-corn Tri-an-gu-la-
+ []
+
+<figures/unicorn.png, id=467, 463.7325pt x 525.46312pt>
+File: figures/unicorn.png Graphic file (type png)
+<use figures/unicorn.png>
+Package pdftex.def Info: figures/unicorn.png  used on input line 672.
+(pdftex.def)             Requested size: 84.64694pt x 95.91025pt.
+
+Underfull \hbox (badness 3281) in paragraph at lines 672--672
+[]\OT1/cmr/m/n/7 (b) Uni-corn Terminal-
+ []
+
+<figures/voronoiunicord.png, id=468, 557.83406pt x 626.34pt>
+File: figures/voronoiunicord.png Graphic file (type png)
+<use figures/voronoiunicord.png>
+Package pdftex.def Info: figures/voronoiunicord.png  used on input line 673.
+(pdftex.def)             Requested size: 84.64694pt x 95.03645pt.
+<figures/unicorn100.png, id=469, 668.4975pt x 757.32938pt>
+File: figures/unicorn100.png Graphic file (type png)
+<use figures/unicorn100.png>
+Package pdftex.def Info: figures/unicorn100.png  used on input line 674.
+(pdftex.def)             Requested size: 84.64694pt x 95.89085pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [15 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/1000points.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/voronoicomparision.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [16 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/faceoriginalPSLG.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/face26p.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/facerefinement.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorntriangulation.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorn.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/voronoiunicord.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorn100.png>]
+<figures/Lshaped_random.png, id=525, 421.575pt x 316.18124pt>
+File: figures/Lshaped_random.png Graphic file (type png)
+<use figures/Lshaped_random.png>
+Package pdftex.def Info: figures/Lshaped_random.png  used on input line 714.
+(pdftex.def)             Requested size: 162.52068pt x 121.89177pt.
+<figures/Lshaped_semiuniform.png, id=526, 421.575pt x 316.18124pt>
+File: figures/Lshaped_semiuniform.png Graphic file (type png)
+<use figures/Lshaped_semiuniform.png>
+Package pdftex.def Info: figures/Lshaped_semiuniform.png  used on input line 715.
+(pdftex.def)             Requested size: 162.52068pt x 121.89177pt.
+<figures/L2_norm_random_Lshaped.png, id=527, 421.575pt x 316.18124pt>
+File: figures/L2_norm_random_Lshaped.png Graphic file (type png)
+<use figures/L2_norm_random_Lshaped.png>
+Package pdftex.def Info: figures/L2_norm_random_Lshaped.png  used on input line 722.
+(pdftex.def)             Requested size: 135.43304pt x 101.57567pt.
+<figures/H1_norm_random_Lshaped.png, id=528, 421.575pt x 316.18124pt>
+File: figures/H1_norm_random_Lshaped.png Graphic file (type png)
+<use figures/H1_norm_random_Lshaped.png>
+Package pdftex.def Info: figures/H1_norm_random_Lshaped.png  used on input line 723.
+(pdftex.def)             Requested size: 135.43304pt x 101.57567pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [17 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/Lshaped_random.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/Lshaped_semiuniform.png (PNG copy)>]
+<figures/L2_norm_semiuniform_Lshaped.png, id=542, 421.575pt x 316.18124pt>
+File: figures/L2_norm_semiuniform_Lshaped.png Graphic file (type png)
+<use figures/L2_norm_semiuniform_Lshaped.png>
+Package pdftex.def Info: figures/L2_norm_semiuniform_Lshaped.png  used on input line 730.
+(pdftex.def)             Requested size: 135.43304pt x 101.57567pt.
+<figures/H1_norm_semiuniform_Lshaped.png, id=543, 421.575pt x 316.18124pt>
+File: figures/H1_norm_semiuniform_Lshaped.png Graphic file (type png)
+<use figures/H1_norm_semiuniform_Lshaped.png>
+Package pdftex.def Info: figures/H1_norm_semiuniform_Lshaped.png  used on input line 731.
+(pdftex.def)             Requested size: 135.43304pt x 101.57567pt.
+<figures/contour_plot_random_Lshaped.png, id=544, 421.575pt x 316.18124pt>
+File: figures/contour_plot_random_Lshaped.png Graphic file (type png)
+<use figures/contour_plot_random_Lshaped.png>
+Package pdftex.def Info: figures/contour_plot_random_Lshaped.png  used on input line 738.
+(pdftex.def)             Requested size: 152.36346pt x 114.27383pt.
+<figures/contour_plot_semiuniform_Lshaped.png, id=545, 421.575pt x 316.18124pt>
+File: figures/contour_plot_semiuniform_Lshaped.png Graphic file (type png)
+<use figures/contour_plot_semiuniform_Lshaped.png>
+Package pdftex.def Info: figures/contour_plot_semiuniform_Lshaped.png  used on input line 739.
+(pdftex.def)             Requested size: 152.36346pt x 114.27383pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [18 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/L2_norm_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/H1_norm_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/L2_norm_semiuniform_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/H1_norm_semiuniform_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/contour_plot_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/contour_plot_semiuniform_Lshaped.png (PNG copy)>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [19] (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [21]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [22])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 838.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [23]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 838.
+ (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 838.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 838.
+Package rerunfilecheck Info: File `sn-article.out' has not changed.
+(rerunfilecheck)             Checksum: 2927C6217476CC1ADA661D41A9CF9C58;969.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 838.
+ ) 
+Here is how much of TeX's memory you used:
+ 12044 strings out of 481239
+ 176941 string characters out of 5920377
+ 461743 words of memory out of 5000000
+ 26869 multiletter control sequences out of 15000+600000
+ 562139 words of font info for 144 fonts, out of 8000000 for 9000
+ 1151 hyphenation exceptions out of 8191
+ 42i,15n,41p,1175b,598s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on "/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.pdf" (23 pages, 4493316 bytes).
+PDF statistics:
+ 705 PDF objects out of 1000 (max. 8388607)
+ 522 compressed objects within 6 object streams
+ 138 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+

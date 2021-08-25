@@ -1,0 +1,500 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{31}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\url{https://doi.org/#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\bibcommenthead
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem{Basisprinciples}
+\begin{barticle}
+\bauthor{\bparticle{Beir{\~a}o~da} \bsnm{Veiga}, \binits{L.}},
+\bauthor{\bsnm{Brezzi}, \binits{F.}},
+\bauthor{\bsnm{Cangiani}, \binits{A.}},
+\bauthor{\bsnm{Manzini}, \binits{G.}},
+\bauthor{\bsnm{Marini}, \binits{L.}},
+\bauthor{\bsnm{Russo}, \binits{A.}}:
+\batitle{Basic principles of virtual element methods}.
+\bjtitle{Mathematical Models and Methods in Applied Sciences}
+\bvolume{23}(\bissue{01}),
+\bfpage{199}--\blpage{214}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 2
+\bibitem{Brezzi2015}
+\begin{barticle}
+\bauthor{\bparticle{Beir{\~a}o~da} \bsnm{Veiga}, \binits{L.}},
+\bauthor{\bsnm{Brezzi}, \binits{F.}},
+\bauthor{\bsnm{Marini}, \binits{L.D.}}:
+\batitle{Virtual elements for linear elasticity problems}.
+\bjtitle{Siam Journal on Numerical Analysis}
+\bvolume{51}(\bissue{2}),
+\bfpage{794}--\blpage{812}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 3
+\bibitem{Wriggers2019}
+\begin{botherref}
+\oauthor{\bsnm{Wriggers}, \binits{P.}},
+\oauthor{\bsnm{Aldakheel}, \binits{F.}},
+\oauthor{\bsnm{Hudobivnik}, \binits{B.}}:
+Application of the virtual element method in mechanics.
+Technical report,
+Report number: ISSN 2196-3789. Leibniz Universität Hannover
+(January 2019)
+\end{botherref}
+\endbibitem
+
+%%% 4
+\bibitem{Ojeda2018ANA}
+\begin{bchapter}
+\bauthor{\bsnm{Ojeda}, \binits{J.}},
+\bauthor{\bsnm{Alonso}, \binits{R.}},
+\bauthor{\bsnm{Hitschfeld-Kahler}, \binits{N.}}:
+\bctitle{A new algorithm for finding polygonal voids in delaunay triangulations
+  and its parallelization}.
+In: \bbtitle{The 34th European Workshop on Computational Geometry, EuroCG},
+pp. \bfpage{56}--\blpage{16}
+(\byear{2018})
+\end{bchapter}
+\endbibitem
+
+%%% 5
+\bibitem{PackingJoaquin}
+\begin{bchapter}
+\bauthor{\bsnm{Torres}, \binits{J.}},
+\bauthor{\bsnm{Hitschfeld}, \binits{N.}},
+\bauthor{\bsnm{Ruiz}, \binits{R.O.}},
+\bauthor{\bsnm{Ortiz-Bernardin}, \binits{A.}}:
+\bctitle{Convex polygon packing based meshing algorithm for modeling of rock
+  and porous media}.
+In: \beditor{\bsnm{Krzhizhanovskaya}, \binits{V.V.}},
+\beditor{\bsnm{Z{\'a}vodszky}, \binits{G.}},
+\beditor{\bsnm{Lees}, \binits{M.H.}},
+\beditor{\bsnm{Dongarra}, \binits{J.J.}},
+\beditor{\bsnm{Sloot}, \binits{P.M.A.}},
+\beditor{\bsnm{Brissos}, \binits{S.}},
+\beditor{\bsnm{Teixeira}, \binits{J.}} (eds.)
+\bbtitle{Computational Science -- ICCS 2020},
+pp. \bfpage{257}--\blpage{269}.
+\bpublisher{Springer},
+\blocation{Cham}
+(\byear{2020})
+\end{bchapter}
+\endbibitem
+
+%%% 6
+\bibitem{chew1}
+\begin{bchapter}
+\bauthor{\bsnm{Chew}, \binits{L.P.}}:
+\bctitle{Constrained delaunay triangulation}.
+In: \bbtitle{Algorithmica},
+vol. \bseriesno{4},
+pp. \bfpage{97}--\blpage{108}
+(\byear{1994})
+\end{bchapter}
+\endbibitem
+
+%%% 7
+\bibitem{Shewchuk96}
+\begin{bchapter}
+\bauthor{\bsnm{Shewchuk}, \binits{J.R.}}:
+\bctitle{Triangle: Engineering a 2d quality mesh generator and delaunay
+  triangulator}.
+In: \beditor{\bsnm{ACM}} (ed.)
+\bbtitle{First Workshop on Applied Computational Geometry},
+pp. \bfpage{124}--\blpage{133}.
+\bpublisher{(Philadelphia, Pennsylvania)}, \blocation{???}
+(\byear{1996})
+\end{bchapter}
+\endbibitem
+
+%%% 8
+\bibitem{Detri2}
+\begin{botherref}
+\oauthor{\bsnm{Si}, \binits{H.}}:
+An Introduction to Unstructured Mesh Generation Methods and Softwares for
+  Scientific Computing.
+Course.
+2019 International Summer School in Beihang University
+(2019)
+\end{botherref}
+\endbibitem
+
+%%% 9
+\bibitem{Canann98}
+\begin{bchapter}
+\bauthor{\bsnm{Canann}, \binits{S.A.}},
+\bauthor{\bsnm{Tristano}, \binits{J.R.}},
+\bauthor{\bsnm{Staten}, \binits{M.L.}}:
+\bctitle{An aproach to combined laplacian and optimization-based smoothing for
+  triangular, quadrilateral and quad-dominant meshes}.
+In: \bbtitle{7th International Meshing Roundtable},
+pp. \bfpage{479}--\blpage{494}
+(\byear{1998})
+\end{bchapter}
+\endbibitem
+
+%%% 10
+\bibitem{Lee20031055}
+\begin{barticle}
+\bauthor{\bsnm{Lee}, \binits{K.-Y.}},
+\bauthor{\bsnm{Kim}, \binits{I.-I.}},
+\bauthor{\bsnm{Cho}, \binits{D.-Y.}},
+\bauthor{\bsnm{Kim}, \binits{T.-w.}}:
+\batitle{An algorithm for automatic 2d quadrilateral mesh generation with line
+  cons traints}.
+\bjtitle{Computer-Aided Design}
+\bvolume{35}(\bissue{12}),
+\bfpage{1055}--\blpage{1068}
+(\byear{2003})
+\end{barticle}
+\endbibitem
+
+%%% 11
+\bibitem{Owen98advancingfront}
+\begin{bchapter}
+\bauthor{\bsnm{Owen}, \binits{S.J.}},
+\bauthor{\bsnm{Staten}, \binits{M.L.}},
+\bauthor{\bsnm{Canann}, \binits{S.A.}},
+\bauthor{\bsnm{Saigal}, \binits{S.}}:
+\bctitle{Advancing front quadrilateral meshing using triangle transformations}.
+In: \bbtitle{Proceedings, 7 Th International Meshing Roundtable 98},
+pp. \bfpage{409}--\blpage{428}
+(\byear{1998})
+\end{bchapter}
+\endbibitem
+
+%%% 12
+\bibitem{gildaDiss}
+\begin{botherref}
+\oauthor{\bsnm{Garret\'on}, \binits{G.}}:
+A hybrid approach to 2d and 3d mesh generation for semiconductor device
+  simulation.
+PhD thesis,
+ETH Z\"urich. Series in Microelectronics, Vol. 80
+(1999)
+\end{botherref}
+\endbibitem
+
+%%% 13
+\bibitem{YanWLL10}
+\begin{bchapter}
+\bauthor{\bsnm{Yan}, \binits{D.-M.}},
+\bauthor{\bsnm{Wang}, \binits{W.}},
+\bauthor{\bsnm{L{\'e}vy}, \binits{B.}},
+\bauthor{\bsnm{Liu}, \binits{Y.}}:
+\bctitle{Efficient computation of 3d clipped voronoi diagram}.
+In: \bbtitle{GMP},
+pp. \bfpage{269}--\blpage{282}
+(\byear{2010})
+\end{bchapter}
+\endbibitem
+
+%%% 14
+\bibitem{EbeidaM11}
+\begin{bchapter}
+\bauthor{\bsnm{Ebeida}, \binits{M.S.}},
+\bauthor{\bsnm{Mitchell}, \binits{S.A.}}:
+\bctitle{Uniform random voronoi meshes}.
+In: \bbtitle{Proceedings of the 20th International Meshing Roundtable, {IMR}
+  2011, October 23-26, 2011, Paris, France},
+pp. \bfpage{273}--\blpage{290}
+(\byear{2011})
+\end{bchapter}
+\endbibitem
+
+%%% 15
+\bibitem{SiegerAB10}
+\begin{bchapter}
+\bauthor{\bsnm{Sieger}, \binits{D.}},
+\bauthor{\bsnm{Alliez}, \binits{P.}},
+\bauthor{\bsnm{Botsch}, \binits{M.}}:
+\bctitle{Optimizing voronoi diagrams for polygonal finite element
+  computations}.
+In: \bbtitle{Proceedings of the 19th International Meshing Roundtable, {IMR}
+  2010, October 3-6, 2010, Chattanooga, Tennessee, {USA}},
+pp. \bfpage{335}--\blpage{350}
+(\byear{2010})
+\end{bchapter}
+\endbibitem
+
+%%% 16
+\bibitem{Sukumar2006}
+\begin{barticle}
+\bauthor{\bsnm{Sukumar}, \binits{N.}},
+\bauthor{\bsnm{Malsch}, \binits{E.A.}}:
+\batitle{Recent advances in the construction of polygonal finite element
+  interpolants}.
+\bjtitle{Archives of Computational Methods in Engineering}
+\bvolume{13}(\bissue{1}),
+\bfpage{129}--\blpage{163}
+(\byear{2006})
+\end{barticle}
+\endbibitem
+
+%%% 17
+\bibitem{tabarraei2008extended}
+\begin{barticle}
+\bauthor{\bsnm{Tabarraei}, \binits{A.}},
+\bauthor{\bsnm{Sukumar}, \binits{N.}}:
+\batitle{Extended finite element method on polygonal and quadtree meshes}.
+\bjtitle{Computer Methods in Applied Mechanics and Engineering}
+\bvolume{197}(\bissue{5}),
+\bfpage{425}--\blpage{438}
+(\byear{2008})
+\end{barticle}
+\endbibitem
+
+%%% 18
+\bibitem{NATARAJAN2017218}
+\begin{barticle}
+\bauthor{\bsnm{Natarajan}, \binits{S.}},
+\bauthor{\bsnm{Ooi}, \binits{E.T.}},
+\bauthor{\bsnm{Saputra}, \binits{A.}},
+\bauthor{\bsnm{Song}, \binits{C.}}:
+\batitle{A scaled boundary finite element formulation over arbitrary faceted
+  star convex polyhedra}.
+\bjtitle{Engineering Analysis with Boundary Elements}
+\bvolume{80},
+\bfpage{218}--\blpage{229}
+(\byear{2017})
+\end{barticle}
+\endbibitem
+
+%%% 19
+\bibitem{da2015virtual}
+\begin{barticle}
+\bauthor{\bparticle{Beir{\~a}o~da} \bsnm{Veiga}, \binits{L.}},
+\bauthor{\bsnm{Lovadina}, \binits{C.}},
+\bauthor{\bsnm{Mora}, \binits{D.}}:
+\batitle{A virtual element method for elastic and inelastic problems on
+  polytope meshes}.
+\bjtitle{Computer Methods in Applied Mechanics and Engineering}
+\bvolume{295},
+\bfpage{327}--\blpage{346}
+(\byear{2015})
+\end{barticle}
+\endbibitem
+
+%%% 20
+\bibitem{caceres2015mixed}
+\begin{botherref}
+\oauthor{\bsnm{V}, \binits{E.C.}}:
+{Mixed Virtual Element Methods. Applications in Fluid Mechanics.}
+{B.S. Thesis},
+Universidad de Concepción,
+Concepción, Chile
+(2015)
+\end{botherref}
+\endbibitem
+
+%%% 21
+\bibitem{benedetto2014virtual}
+\begin{barticle}
+\bauthor{\bsnm{Benedetto}, \binits{M.F.}},
+\bauthor{\bsnm{Berrone}, \binits{S.}},
+\bauthor{\bsnm{Pieraccini}, \binits{S.}},
+\bauthor{\bsnm{Scial{\`o}}, \binits{S.}}:
+\batitle{The virtual element method for discrete fracture network simulations}.
+\bjtitle{Computer Methods in Applied Mechanics and Engineering}
+\bvolume{280},
+\bfpage{135}--\blpage{156}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 22
+\bibitem{Wriggers2017}
+\begin{barticle}
+\bauthor{\bsnm{Wriggers}, \binits{P.}},
+\bauthor{\bsnm{Reddy}, \binits{B.D.}},
+\bauthor{\bsnm{Rust}, \binits{W.T.}},
+\bauthor{\bsnm{Hudobivnik}, \binits{B.}}:
+\batitle{Efficient virtual element formulations for compressible and
+  incompressible finite deformations}.
+\bjtitle{Computational Mechanics}
+\bvolume{60},
+\bfpage{253}--\blpage{268}
+(\byear{2017})
+\end{barticle}
+\endbibitem
+
+%%% 23
+\bibitem{Wriggers2017a}
+\begin{barticle}
+\bauthor{\bsnm{Wriggers}, \binits{P.}},
+\bauthor{\bsnm{Hudobivnik}, \binits{B.}}:
+\batitle{A low order virtual element formulation for finite elasto-plastic
+  deformations}.
+\bjtitle{Computer Methods in Applied Mechanics}
+\bvolume{327},
+\bfpage{459}--\blpage{477}
+(\byear{2017})
+\end{barticle}
+\endbibitem
+
+%%% 24
+\bibitem{HUSSEIN201915}
+\begin{barticle}
+\bauthor{\bsnm{Hussein}, \binits{A.}},
+\bauthor{\bsnm{Aldakheel}, \binits{F.}},
+\bauthor{\bsnm{Hudobivnik}, \binits{B.}},
+\bauthor{\bsnm{Wriggers}, \binits{P.}},
+\bauthor{\bsnm{Guidault}, \binits{P.-A.}},
+\bauthor{\bsnm{Allix}, \binits{O.}}:
+\batitle{A computational framework for brittle crack-propagation based on
+  efficient virtual element method}.
+\bjtitle{Finite Elements in Analysis and Design}
+\bvolume{159},
+\bfpage{15}--\blpage{32}
+(\byear{2019})
+\end{barticle}
+\endbibitem
+
+%%% 25
+\bibitem{Rivara97}
+\begin{barticle}
+\bauthor{\bsnm{Rivara}, \binits{M.C.}}:
+\batitle{New longest-edge algorithms for the refinement and/or improvement of
+  unstructured triangulations}.
+\bjtitle{Int. Jour. for Num. Meth. in Eng.}
+\bvolume{40},
+\bfpage{3313}--\blpage{3324}
+(\byear{1997})
+\end{barticle}
+\endbibitem
+
+%%% 26
+\bibitem{Ascom209}
+\begin{barticle}
+\bauthor{\bsnm{Alonso}, \binits{R.}},
+\bauthor{\bsnm{Ojeda}, \binits{J.}},
+\bauthor{\bsnm{Hitschfeld}, \binits{N.}},
+\bauthor{\bsnm{Hervías}, \binits{C.}},
+\bauthor{\bsnm{Campusano}, \binits{L.E.}}:
+\batitle{{D}elaunay based algorithm for finding polygonal voids in planar point
+  sets}.
+\bjtitle{Astronomy and Computing}
+\bvolume{22},
+\bfpage{48}--\blpage{62}
+(\byear{2018})
+\end{barticle}
+\endbibitem
+
+%%% 27
+\bibitem{Shewchuktriangle}
+\begin{bchapter}
+\bauthor{\bsnm{Shewchuk}, \binits{J.R.}}:
+\bctitle{Triangle: Engineering a 2d quality mesh generator and delaunay
+  triangulator}.
+In: \beditor{\bsnm{Lin}, \binits{M.C.}},
+\beditor{\bsnm{Manocha}, \binits{D.}} (eds.)
+\bbtitle{Applied Computational Geometry Towards Geometric Engineering},
+pp. \bfpage{203}--\blpage{222}.
+\bpublisher{Springer},
+\blocation{Berlin, Heidelberg}
+(\byear{1996})
+\end{bchapter}
+\endbibitem
+
+%%% 28
+\bibitem{deldir}
+\begin{botherref}
+\oauthor{\bsnm{Turner}, \binits{R.}}:
+Deldir: Delaunay Triangulation and Dirichlet (Voronoi) Tessellation.
+(2021).
+R package version 0.2-10.
+\url{https://CRAN.R-project.org/package=deldir}
+\end{botherref}
+\endbibitem
+
+%%% 29
+\bibitem{AlejandroNUA2019}
+\begin{barticle}
+\bauthor{\bsnm{Ortiz{-}Bernardin}, \binits{A.}},
+\bauthor{\bsnm{{\'{A}}lvarez}, \binits{C.}},
+\bauthor{\bsnm{Hitschfeld{-}Kahler}, \binits{N.}},
+\bauthor{\bsnm{Russo}, \binits{A.}},
+\bauthor{\bsnm{Silva{-}Valenzuela}, \binits{R.}},
+\bauthor{\bsnm{Olate{-}Sanzana}, \binits{E.}}:
+\batitle{Veamy: an extensible object-oriented {C++} library for the virtual
+  element method}.
+\bjtitle{Numerical Algorithms}
+\bvolume{82}(\bissue{4}),
+\bfpage{1}--\blpage{32}
+(\byear{2019})
+\end{barticle}
+\endbibitem
+
+%%% 30
+\bibitem{MITCHELL2013350}
+\begin{barticle}
+\bauthor{\bsnm{Mitchell}, \binits{W.F.}}:
+\batitle{A collection of 2d elliptic problems for testing adaptive grid
+  refinement algorithms}.
+\bjtitle{Applied Mathematics and Computation}
+\bvolume{220},
+\bfpage{350}--\blpage{364}
+(\byear{2013})
+\end{barticle}
+\endbibitem
+
+%%% 31
+\bibitem{HerviasHCF13}
+\begin{bchapter}
+\bauthor{\bsnm{Herv{\'{\i}}as}, \binits{C.}},
+\bauthor{\bsnm{Hitschfeld{-}Kahler}, \binits{N.}},
+\bauthor{\bsnm{Campusano}, \binits{L.E.}},
+\bauthor{\bsnm{Font}, \binits{G.}}:
+\bctitle{On finding large polygonal voids using {D}elaunay triangulation: The
+  case of planar point sets}.
+In: \bbtitle{Proceedings of the 22nd International Meshing Roundtable},
+pp. \bfpage{275}--\blpage{292}
+(\byear{2013})
+\end{bchapter}
+\endbibitem
+
+\end{thebibliography}
