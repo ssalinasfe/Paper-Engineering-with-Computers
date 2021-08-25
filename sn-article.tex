@@ -331,7 +331,7 @@ Given that $T$ is finite, there should exist a triangle $t_0$ (see Figure \ref{f
 
 
 It is worth mentioning that Lemma \ref{l:verticeslemma} is important, since it means that the initial points used to represent the geometric domain and the ones inside the domain to fulfill point density requirements, are maintained after the polygon mesh is generated. Moreover, it allows for the use of interior-edges that contain barrier-edge tips as endpoints to split a non-simple polygon into simple polygons.
-\newpage
+
 \textcolor{blue}{There is a degenerate case that does not respect Lemma \ref{l:verticeslemma}, when points are not in general position. Given a vertex $v$ of a triangulation $\Omega$ and $T$ the set of triangles incident to $v$. If all triangles in $T$ are equilateral, it may happen that the algorithm chooses all the left edges or all right edges as longest-edge in triangles $T$, generating a circular lepp without terminal-edge and the final mesh would have a hole. This rare case can be solve changing the order in that arbitrary longest-edge is selected in the algorithm.}
 
 
