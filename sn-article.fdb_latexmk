@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex sn-article"] 1629931819 "sn-article.aux" "sn-article.bbl" "sn-article" 1629933003
+["bibtex sn-article"] 1629934812 "sn-article.aux" "sn-article.bbl" "sn-article" 1629934996
   "./sn-mathphys.bst" 1629927688 63706 469c452f34bb510fa5fe71dd6cc8e436 ""
   "polygonVem.bib" 1629912055 25424 413fa4cf337ce255df3856d347f7d44a ""
   "ref.bib" 1629912055 52431 fc7341bfc56fc020a1cfae48a1681c96 ""
-  "sn-article.aux" 1629932529 26256 98bd58052ec28959824dfad160d14a2c "pdflatex"
+  "sn-article.aux" 1629934982 26256 b115328ecb8800cb9a316c1546098bb8 "pdflatex"
   "sn-bibliography.bib" 1629927688 4474 e2af62707997f53a168e22b05f17c9f9 ""
   (generated)
-  "sn-article.blg"
   "sn-article.bbl"
-["pdflatex"] 1629932528 "/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.tex" "/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.pdf" "sn-article" 1629933003
+  "sn-article.blg"
+["pdflatex"] 1629934981 "/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.tex" "/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.pdf" "sn-article" 1629934996
   "/etc/texmf/web2c/texmf.cnf" 1618510704 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.aux" 1629932529 26256 98bd58052ec28959824dfad160d14a2c ""
-  "/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.tex" 1629933003 76678 a703630b7ca6815631aa00a3e2ed82c0 ""
+  "/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.aux" 1629934982 26256 b115328ecb8800cb9a316c1546098bb8 ""
+  "/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.tex" 1629934996 76824 d5be20d07ec6ca0461fc0b5df36cf0b1 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -204,15 +204,15 @@
   "figures/unicorntriangulation.png" 1629912055 13383 1c2d9c436ef9c34245d8fb8bc7d5f5e3 ""
   "figures/voronoicomparision.png" 1629912055 76034 bc11b06cdb36dd22e6bf764162cb9f77 ""
   "figures/voronoiunicord.png" 1629912055 11876 263a512b8508dc4fc9c12d33e160a00b ""
-  "sn-article.aux" 1629932529 26256 98bd58052ec28959824dfad160d14a2c "pdflatex"
-  "sn-article.bbl" 1629931820 14748 9f4e211cb149442e8fbbfe8f61b95fd5 "bibtex sn-article"
-  "sn-article.out" 1629932529 969 2927c6217476cc1ada661d41a9cf9c58 "pdflatex"
-  "sn-article.tex" 1629933003 76678 a703630b7ca6815631aa00a3e2ed82c0 ""
+  "sn-article.aux" 1629934982 26256 b115328ecb8800cb9a316c1546098bb8 "pdflatex"
+  "sn-article.bbl" 1629934813 14748 9f4e211cb149442e8fbbfe8f61b95fd5 "bibtex sn-article"
+  "sn-article.out" 1629934982 969 2927c6217476cc1ada661d41a9cf9c58 "pdflatex"
+  "sn-article.tex" 1629934996 76824 d5be20d07ec6ca0461fc0b5df36cf0b1 ""
   "sn-jnl.cls" 1629927688 55655 679fe4b8ca2afec4f520906efd61f997 ""
   (generated)
-  "/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.pdf"
-  "sn-article.aux"
+  "/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.log"
   "sn-article.log"
+  "/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.pdf"
   "sn-article.pdf"
   "sn-article.out"
-  "/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.log"
+  "sn-article.aux"

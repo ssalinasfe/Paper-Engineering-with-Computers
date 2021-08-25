@@ -1,12 +1,12 @@
-PWD /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template
+PWD /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.tex
-OUTPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.log
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-jnl.cls
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-jnl.cls
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.tex
+OUTPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.log
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-jnl.cls
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-jnl.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
@@ -174,9 +174,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.aux
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.aux
-OUTPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.aux
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.aux
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.aux
+OUTPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
@@ -191,14 +191,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out
-OUTPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out
-OUTPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out
+OUTPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out
+OUTPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
@@ -255,8 +255,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm5.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
@@ -274,33 +274,33 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm5.tfm
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3-eps-converted-to.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
@@ -311,146 +311,146 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/data_struc_withpoints.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/data_struc_withpoints.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/data_struc_withpoints.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/triangulo.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/triangulo.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/triangulo.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2.eps
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2-eps-converted-to.pdf
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/data_struc_withpoints.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/data_struc_withpoints.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/data_struc_withpoints.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/triangulo.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/triangulo.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/triangulo.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2.eps
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2-eps-converted-to.pdf
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2-eps-converted-to.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
@@ -463,62 +463,62 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm5.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm5.tfm
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/1000points.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/1000points.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/1000points.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/voronoicomparision.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/voronoicomparision.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/voronoicomparision.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/faceoriginalPSLG.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/faceoriginalPSLG.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/faceoriginalPSLG.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/face26p.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/face26p.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/face26p.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/facerefinement.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/facerefinement.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/facerefinement.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorntriangulation.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorntriangulation.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorntriangulation.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorn.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorn.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorn.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/voronoiunicord.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/voronoiunicord.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/voronoiunicord.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorn100.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorn100.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorn100.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/Lshaped_random.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/Lshaped_random.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/Lshaped_random.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/Lshaped_semiuniform.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/Lshaped_semiuniform.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/Lshaped_semiuniform.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/L2_norm_random_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/L2_norm_random_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/L2_norm_random_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/H1_norm_random_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/H1_norm_random_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/H1_norm_random_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/L2_norm_semiuniform_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/L2_norm_semiuniform_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/L2_norm_semiuniform_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/H1_norm_semiuniform_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/H1_norm_semiuniform_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/H1_norm_semiuniform_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/contour_plot_random_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/contour_plot_random_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/contour_plot_random_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/contour_plot_semiuniform_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/contour_plot_semiuniform_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/contour_plot_semiuniform_Lshaped.png
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.bbl
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.bbl
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.aux
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out
-INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/1000points.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/1000points.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/1000points.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/voronoicomparision.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/voronoicomparision.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/voronoicomparision.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/faceoriginalPSLG.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/faceoriginalPSLG.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/faceoriginalPSLG.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/face26p.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/face26p.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/face26p.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/facerefinement.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/facerefinement.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/facerefinement.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorntriangulation.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorntriangulation.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorntriangulation.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorn.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorn.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorn.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/voronoiunicord.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/voronoiunicord.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/voronoiunicord.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorn100.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorn100.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorn100.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/Lshaped_random.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/Lshaped_random.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/Lshaped_random.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/Lshaped_semiuniform.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/Lshaped_semiuniform.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/Lshaped_semiuniform.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/L2_norm_random_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/L2_norm_random_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/L2_norm_random_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/H1_norm_random_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/H1_norm_random_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/H1_norm_random_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/L2_norm_semiuniform_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/L2_norm_semiuniform_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/L2_norm_semiuniform_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/H1_norm_semiuniform_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/H1_norm_semiuniform_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/H1_norm_semiuniform_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/contour_plot_random_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/contour_plot_random_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/contour_plot_random_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/contour_plot_semiuniform_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/contour_plot_semiuniform_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/contour_plot_semiuniform_Lshaped.png
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.bbl
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.bbl
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.aux
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out
+INPUT /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb

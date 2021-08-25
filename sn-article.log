@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.15)  25 AUG 2021 19:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.4.15)  25 AUG 2021 19:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.tex"
-(/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.tex
+**/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.tex
+(/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.tex
 LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14> (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-jnl.cls
+L3 programming layer <2020-02-14> (/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-jnl.cls
 Document Class: sn-jnl 2019/11/18 v0.1: An authoring template for Springer Journal articles
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -549,7 +549,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count316
 \l__pdf_internal_box=\box64
-) (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.aux
+) (/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.aux
 
 LaTeX Warning: Label `fig:meshdatastruct' multiply defined.
 
@@ -653,7 +653,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 75.
 LaTeX Info: Redefining \pageref on input line 75.
 LaTeX Info: Redefining \nameref on input line 75.
- (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out) (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.out)
+ (/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out) (/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.out)
 \@outlinefile=\write3
 \openout3 = `sn-article.out'.
 
@@ -729,7 +729,7 @@ Package epstopdf Info: Source file: <figures/leppex1.eps>
 (epstopdf)             Command: <repstopdf --outfile=figures/leppex1-eps-converted-to.pdf figures/leppex1.eps>
 (epstopdf)             \includegraphics on input line 204.
 Package epstopdf Info: Output file is already uptodate.
-<figures/leppex1-eps-converted-to.pdf, id=147, 328.22626pt x 328.22626pt>
+<figures/leppex1-eps-converted-to.pdf, id=146, 328.22626pt x 328.22626pt>
 File: figures/leppex1-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/leppex1-eps-converted-to.pdf>
 Package pdftex.def Info: figures/leppex1-eps-converted-to.pdf  used on input line 204.
@@ -743,7 +743,7 @@ Package epstopdf Info: Source file: <figures/leppex2.eps>
 (epstopdf)             Command: <repstopdf --outfile=figures/leppex2-eps-converted-to.pdf figures/leppex2.eps>
 (epstopdf)             \includegraphics on input line 205.
 Package epstopdf Info: Output file is already uptodate.
-<figures/leppex2-eps-converted-to.pdf, id=148, 328.22626pt x 328.22626pt>
+<figures/leppex2-eps-converted-to.pdf, id=147, 328.22626pt x 328.22626pt>
 File: figures/leppex2-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/leppex2-eps-converted-to.pdf>
 Package pdftex.def Info: figures/leppex2-eps-converted-to.pdf  used on input line 205.
@@ -757,7 +757,7 @@ Package epstopdf Info: Source file: <figures/leppex3.eps>
 (epstopdf)             Command: <repstopdf --outfile=figures/leppex3-eps-converted-to.pdf figures/leppex3.eps>
 (epstopdf)             \includegraphics on input line 206.
 Package epstopdf Info: Output file is already uptodate.
-<figures/leppex3-eps-converted-to.pdf, id=149, 328.22626pt x 328.22626pt>
+<figures/leppex3-eps-converted-to.pdf, id=148, 328.22626pt x 328.22626pt>
 File: figures/leppex3-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/leppex3-eps-converted-to.pdf>
 Package pdftex.def Info: figures/leppex3-eps-converted-to.pdf  used on input line 206.
@@ -768,7 +768,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [4 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex1-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex2-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/leppex3-eps-converted-to.pdf>]
+ [4 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex1-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex2-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/leppex3-eps-converted-to.pdf>]
 Underfull \hbox (badness 3803) in paragraph at lines 235--236
 []\OT1/cmr/m/n/10 Terminal-edge regions cover the whole domain with-out over-lap-
  []
@@ -821,7 +821,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [5 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaypoints-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabel-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delaunaylabelcolors-eps-converted-to.pdf>]
+ [5 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaypoints-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabel-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delaunaylabelcolors-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/simplebe.eps>
 (epstopdf)                    date: 2021-08-25 13:20:55
 (epstopdf)                    size: 4009 bytes
@@ -870,6 +870,13 @@ Underfull \hbox (badness 1527) in paragraph at lines 300--300
 \OT1/cmr/m/n/7 edges and two tips
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+ [6 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/simplebe-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/nosimplebe-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/demostracionlemma2.1.eps>
 (epstopdf)                    date: 2021-08-25 13:20:55
 (epstopdf)                    size: 47100 bytes
@@ -879,27 +886,18 @@ Package epstopdf Info: Source file: <figures/demostracionlemma2.1.eps>
 (epstopdf)             Command: <repstopdf --outfile=figures/demostracionlemma2.1-eps-converted-to.pdf figures/demostracionlemma2.1.eps>
 (epstopdf)             \includegraphics on input line 327.
 Package epstopdf Info: Output file is already uptodate.
-<figures/demostracionlemma2.1-eps-converted-to.pdf, id=235, 179.67125pt x 163.61125pt>
+<figures/demostracionlemma2.1-eps-converted-to.pdf, id=249, 179.67125pt x 163.61125pt>
 File: figures/demostracionlemma2.1-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/demostracionlemma2.1-eps-converted-to.pdf>
 Package pdftex.def Info: figures/demostracionlemma2.1-eps-converted-to.pdf  used on input line 327.
 (pdftex.def)             Requested size: 84.64694pt x 77.08203pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [6 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/simplebe-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/nosimplebe-eps-converted-to.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (1.44444pt too high) has occurred while \output is active []
-
- [7 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/demostracionlemma2.1-eps-converted-to.pdf>]
+ [7 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/demostracionlemma2.1-eps-converted-to.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -955,7 +953,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [9 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/data_struc_withpoints.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/triangulo.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/polyarray-eps-converted-to.pdf>]
+ [9 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/data_struc_withpoints.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/triangulo.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/polyarray-eps-converted-to.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 410.
@@ -1010,13 +1008,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [10 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/meshdatastruct-eps-converted-to.pdf>]
+ [10 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/meshdatastruct-eps-converted-to.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [11 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/delunolabel-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/labelandseedcolors-eps-converted-to.pdf>]
+ [11 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/delunolabel-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/labelandseedcolors-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/travelphase2.eps>
 (epstopdf)                    date: 2021-08-25 13:20:55
 (epstopdf)                    size: 85154 bytes
@@ -1037,7 +1035,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [12 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/travelphase2-eps-converted-to.pdf>]
+ [12 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/travelphase2-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <figures/be3split1.eps>
 (epstopdf)                    date: 2021-08-25 13:20:55
 (epstopdf)                    size: 7622 bytes
@@ -1086,7 +1084,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [13 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split1-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split2v2-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/be3split3v2-eps-converted-to.pdf>]
+ [13 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split1-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split2v2-eps-converted-to.pdf> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/be3split3v2-eps-converted-to.pdf>]
 
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 610.
@@ -1191,13 +1189,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [15 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/1000points.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/voronoicomparision.png>]
+ [15 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/1000points.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/voronoicomparision.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [16 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/faceoriginalPSLG.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/face26p.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/facerefinement.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorntriangulation.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorn.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/voronoiunicord.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/unicorn100.png>]
+ [16 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/faceoriginalPSLG.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/face26p.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/facerefinement.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorntriangulation.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorn.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/voronoiunicord.png> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/unicorn100.png>]
 <figures/Lshaped_random.png, id=525, 421.575pt x 316.18124pt>
 File: figures/Lshaped_random.png Graphic file (type png)
 <use figures/Lshaped_random.png>
@@ -1224,7 +1222,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [17 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/Lshaped_random.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/Lshaped_semiuniform.png (PNG copy)>]
+ [17 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/Lshaped_random.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/Lshaped_semiuniform.png (PNG copy)>]
 <figures/L2_norm_semiuniform_Lshaped.png, id=542, 421.575pt x 316.18124pt>
 File: figures/L2_norm_semiuniform_Lshaped.png Graphic file (type png)
 <use figures/L2_norm_semiuniform_Lshaped.png>
@@ -1251,13 +1249,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [18 </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/L2_norm_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/H1_norm_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/L2_norm_semiuniform_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/H1_norm_semiuniform_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/contour_plot_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/figures/contour_plot_semiuniform_Lshaped.png (PNG copy)>]
+ [18 </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/L2_norm_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/H1_norm_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/L2_norm_semiuniform_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/H1_norm_semiuniform_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/contour_plot_random_Lshaped.png (PNG copy)> </home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/figures/contour_plot_semiuniform_Lshaped.png (PNG copy)>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
- [19] (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.bbl
+ [19] (/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1285,7 +1283,7 @@ Overfull \vbox (1.44444pt too high) has occurred while \output is active []
 
  [23]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 838.
- (/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.aux)
+ (/home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 838.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 838.
 Package rerunfilecheck Info: File `sn-article.out' has not changed.
@@ -1302,14 +1300,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 838.
  ) 
 Here is how much of TeX's memory you used:
  12044 strings out of 481239
- 176941 string characters out of 5920377
+ 176973 string characters out of 5920377
  461743 words of memory out of 5000000
  26869 multiletter control sequences out of 15000+600000
  562139 words of font info for 144 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
  42i,15n,41p,1175b,598s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on "/home/cuyi/Dropbox/Doctorado/Investigacion/Springer Nature LaTeX Template/sn-article.pdf" (23 pages, 4493316 bytes).
+Output written on /home/cuyi/Dropbox/Doctorado/Investigacion/Paper-Engineering-with-Computers/sn-article.pdf (23 pages, 4493250 bytes).
 PDF statistics:
  705 PDF objects out of 1000 (max. 8388607)
  522 compressed objects within 6 object streams
